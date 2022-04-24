@@ -66,5 +66,8 @@ if __name__ == "__main__":
       C-D-E-F
       Z-A-R-E
       N1-N2-N5
-
 ```
+
+**Nodes**
+
+![alt text](https://github.com/mohammed-Emad/coderbyte/raw/main/Docs/graph.jpg)
